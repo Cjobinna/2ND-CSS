@@ -1,6 +1,6 @@
 div{
     background-color: rgb(133, 9, 9);
-    height: 260vh;
+    height: 300vh;
     text-align: center;
 }
 h1, h2, p{
@@ -10,12 +10,7 @@ h1, h2, p{
 ul{
     display: inline-block;
     text-align: center;
+    text-align: left;
     color: rgb(235, 241, 241);
-}
-#img1{
-    position: absolute;
-}
-#img2{
-    position: relative;
 }
 
