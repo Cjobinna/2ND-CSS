@@ -1,9 +1,10 @@
 div{
     background-color: rgb(133, 9, 9);
-    height: 400vh;
+    height: 260vh;
+    text-align: center;
 }
 h1, h2, p{
-    text-align: center;
+
     color: rgb(235, 241, 241);
 }
 ul{
@@ -17,3 +18,4 @@ ul{
 #img2{
     position: relative;
 }
+
