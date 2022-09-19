@@ -1,0 +1,19 @@
+div{
+    background-color: rgb(133, 9, 9);
+    height: 400vh;
+}
+h1, h2, p{
+    text-align: center;
+    color: rgb(235, 241, 241);
+}
+ul{
+    display: inline-block;
+    text-align: center;
+    color: rgb(235, 241, 241);
+}
+#img1{
+    position: absolute;
+}
+#img2{
+    position: relative;
+}
