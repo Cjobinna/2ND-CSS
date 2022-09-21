@@ -1,16 +1,62 @@
-div{
+main{
     background-color: rgb(133, 9, 9);
-    height: 2000px;
-    text-align: center;
+    width: 100%;
 }
-h1, h2, p{
+h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    text-align: center;
+    color: rgb(172, 165, 165);
+}
+.container{
+    background-image: url("one.jpg");
+    background-repeat: no-repeat;
+    background-color: rgb(133, 9, 9);
+    background-blend-mode: overlay;
+    background-position: center;
+    background-size: cover;
+    width: 96%;
+    height: 100vh;
+    margin: 0 auto;
+}
 
-    color: rgb(235, 241, 241);
+img{
+    width: 75%;
+    margin-left: 135px;
+    margin-top: 15px;
 }
-ul{
-    display: inline-block;
+.fig1{
     text-align: center;
+    color: white;
+    font-size: 18px;
+}
+section{
+    width: 50%;
+    margin: auto;
+    line-height: 37px;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+li{
+    margin: auto;
     text-align: left;
-    color: rgb(235, 241, 241);
+    color: white
 }
-
+.p1{
+    color: white;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
